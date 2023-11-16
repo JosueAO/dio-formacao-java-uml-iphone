@@ -1,0 +1,29 @@
+# Arquivos compilados
+*.class
+
+# Pacotes de artefatos de compilação
+*.jar
+*.war
+*.ear
+
+# Diretórios de compilação
+bin/
+out/
+build/
+target/
+
+# Arquivos e diretórios relacionados à IDE
+*.idea
+*.iml
+*.vscode
+*.eclipse
+*.settings/
+*.project/
+*.classpath/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de logs
+*.log
